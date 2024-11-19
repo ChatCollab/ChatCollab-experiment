@@ -1,0 +1,4 @@
+model_type: 'openai'
+model_name: 'gpt-4-turbo'
+input_directory: 'collab_dynamics'
+output_directory: 'output'

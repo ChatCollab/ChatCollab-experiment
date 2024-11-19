@@ -1,0 +1,38 @@
+.env
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Jupyter Lab
+.jupyter/
+.jupyterlab/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Data files (optional, depending on your needs)
+*.dat
+*.pkl
+*.h5
+*.hdf5
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
