@@ -41,7 +41,7 @@ The notebook processes the conversation data and generates visualizations to ana
 
 1. Create a `.env` file with your OpenAI API key:
 ```
-OPENAI_API_KEY=<your_openai_api_key>
+OPENAI_API_KEY='your_openai_api_key'
 ```
 2. Install dependencies:
 ```
