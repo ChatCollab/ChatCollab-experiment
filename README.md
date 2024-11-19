@@ -18,7 +18,6 @@ The data is organized in a nested folder hierarchy under `collab_dynamics/`:
 Each condition folder contains numbered runs (1,2,3) with:
 - OpenAI interaction logs (.json)
 - Conversation transcripts (.md)
-- Metadata about the experimental run
 
 ## Output Directory
 
