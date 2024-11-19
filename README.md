@@ -47,3 +47,7 @@ OPENAI_API_KEY=<your_openai_api_key>
 ```
 pip install -r requirements.txt
 ```
+3. Run the Jupyter notebook:
+```
+jupyter lab interaction_process_analysis.ipynb
+```
